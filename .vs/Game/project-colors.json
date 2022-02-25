@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f46a359-e4f8-453c-97da-89d1c56f944a": {
+      "ProjectGuid": "4f46a359-e4f8-453c-97da-89d1c56f944a",
+      "DisplayName": "Game.Services",
+      "ColorIndex": 0
+    },
+    "37930b98-e79b-4c4b-920f-cd3cb47c0ce1": {
+      "ProjectGuid": "37930b98-e79b-4c4b-920f-cd3cb47c0ce1",
+      "DisplayName": "Game.Api",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,24 @@
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\bin\Debug\net6.0\Game.Services.deps.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\bin\Debug\net6.0\Game.Services.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\bin\Debug\net6.0\ref\Game.Services.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\bin\Debug\net6.0\Game.Services.pdb
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.csproj.AssemblyReference.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.AssemblyInfoInputs.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.AssemblyInfo.cs
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\ref\Game.Services.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Services\obj\Debug\net6.0\Game.Services.pdb
+C:\Users\Gerim\Desktop\backend\Game.Services\bin\Debug\net6.0\Game.Services.deps.json
+C:\Users\Gerim\Desktop\backend\Game.Services\bin\Debug\net6.0\Game.Services.dll
+C:\Users\Gerim\Desktop\backend\Game.Services\bin\Debug\net6.0\ref\Game.Services.dll
+C:\Users\Gerim\Desktop\backend\Game.Services\bin\Debug\net6.0\Game.Services.pdb
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.csproj.AssemblyReference.cache
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.AssemblyInfoInputs.cache
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.AssemblyInfo.cs
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.csproj.CoreCompileInputs.cache
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.dll
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\ref\Game.Services.dll
+C:\Users\Gerim\Desktop\backend\Game.Services\obj\Debug\net6.0\Game.Services.pdb

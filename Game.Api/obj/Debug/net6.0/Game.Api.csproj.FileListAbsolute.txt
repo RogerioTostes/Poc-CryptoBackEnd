@@ -1,0 +1,102 @@
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.csproj.AssemblyReference.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.AssemblyInfoInputs.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.AssemblyInfo.cs
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Api.exe
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Api.deps.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Api.runtimeconfig.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Api.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\ref\Game.Api.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Api.pdb
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Services.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\bin\Debug\net6.0\Game.Services.pdb
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\scopedcss\bundle\Game.Api.styles.css
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.csproj.CopyComplete
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\ref\Game.Api.dll
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.pdb
+C:\Users\MICRO\Desktop\Projeto crypto\backend\Game\Game.Api\obj\Debug\net6.0\Game.Api.genruntimeconfig.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Api.exe
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Api.deps.json
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Api.runtimeconfig.json
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Api.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\ref\Game.Api.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Api.pdb
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\NBitcoin.Secp256k1.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Nethereum.Hex.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Nethereum.Model.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Nethereum.RLP.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Nethereum.Signer.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Nethereum.Util.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Services.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\bin\Debug\net6.0\Game.Services.pdb
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.csproj.AssemblyReference.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.AssemblyInfoInputs.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.AssemblyInfo.cs
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.csproj.CoreCompileInputs.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\scopedcss\bundle\Game.Api.styles.css
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\ref\Game.Api.dll
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.pdb
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.genruntimeconfig.cache
+C:\Users\Gerim\Desktop\backend\Game.Api\obj\Debug\net6.0\Game.Api.csproj.CopyComplete
